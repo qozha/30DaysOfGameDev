@@ -1,5 +1,8 @@
 # 30 Day of Game Development Challenge
 
+Code any game or practice Game Development every day for the next 30 days
+OR, create a game in 30 days and publish it (itch.io, Steam, Google Play, App Store, etc.)
+
 ## If you've decided to join:
 1. Fork this repo and commit to the [Readme](README.md).
 2. Code minimum an hour every day for the next 30 days.
