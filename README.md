@@ -10,6 +10,6 @@ OR, create a game in 30 days and publish it (itch.io, Steam, Google Play, App St
 Completed the first week of *Character Design for Video Games*\
 Completed 1/3 of the first week of *C++ Yellow Belt*\
 ### Art:
-\![GIF](Arts/Day_1.gif)\
+![GIF](Arts/Day_1.gif)
 
 </details>
