@@ -13,3 +13,14 @@ Completed 1/3 of the first week of *C++ Yellow Belt*\
 ![GIF](Arts/Day_1.gif)
 
 </details>
+
+<details>
+<summary>Day 2 (May 5, 2020)</summary>
+
+### Coding:
+Completed the first week of *C++ Yellow Belt*\
+Started to make puzzle game on Godot Engine \
+### Art:
+![GIF](Arts/Day_2.png)
+
+</details>
