@@ -11,9 +11,9 @@ OR, create a game in 30 days and publish it (itch.io, Steam, Google Play, App St
 
 <details>
 <summary>Day 1</summary>
-Today I have started to program my own game in Godot.
+not doing much, just learning blender for now
 
-Also, here is my [art](Art/day1.png) for today
+Also, here is my [art](Glock.gif) for today
 </details>
 
 <details>
